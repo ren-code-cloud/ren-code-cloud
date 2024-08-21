@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Bank Application**
+- 🔭 I’m currently working on **ReactTS and NestTS project**
 - 🌱 I’m currently learning **MERN and NEXT**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-eight-kohl-65.vercel.app/)
 - 📝 I regularly write articles on [My Blog](https://www.blogger.com/about/?bpli=1)
